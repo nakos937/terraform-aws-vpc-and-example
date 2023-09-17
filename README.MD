@@ -7,8 +7,6 @@
     Establishes private subnets for application servers with controlled internet access.
     Implements a NAT Gateway for outbound internet access from private subnets.
     Sets up a VPC endpoint for Amazon S3, allowing secure and efficient access without public internet routing.
-    Offers configurable variables for easy customization based on your specific requirements.
-    Ensures the infrastructure is defined as code, enabling version control and reproducibility.
 
 # Usage:
 
