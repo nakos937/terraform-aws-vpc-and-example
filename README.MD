@@ -1,4 +1,4 @@
-## This Terraform project deploys an Amazon Web Services (AWS) Virtual Private Cloud (VPC) with a focus on optimizing security, cost, and performance. It includes the creation of public and private subnets across multiple availability zones, a Network Address Translation (NAT) Gateway for private subnet internet access, and a VPC endpoint for Amazon S3, ensuring secure and cost-effective communication with the S3 service without going through the public internet.
+## This Terraform project deploys anA VPC with 2 private and public subnets in 2 AZ-s and a VPC endpoint for Amazon S3.
 
 # Features:
 
