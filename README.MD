@@ -2,11 +2,11 @@
 
 # Features:
 
-    Creates a customizable VPC with best practices for multi-AZ redundancy.
-    Configures public subnets designed for hosting load balancers or reverse proxies.
-    Establishes private subnets for application servers with controlled internet access.
-    Implements a NAT Gateway for outbound internet access from private subnets.
-    Sets up a VPC endpoint for Amazon S3, allowing secure and efficient access without public internet routing.
+   - Creates a customizable VPC with best practices for multi-AZ redundancy.
+   - Configures public subnets designed for hosting load balancers or reverse proxies.
+   - Establishes private subnets for application servers with controlled internet access.
+   - Implements a NAT Gateway for outbound internet access from private subnets.
+   - Sets up a VPC endpoint for Amazon S3, allowing secure and efficient access without public internet routing.
 
 # Usage:
 
